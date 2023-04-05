@@ -1,0 +1,7 @@
+Numero de guía: 981 
+Paciente: paciente8 
+Fecha de transfusión: 20251203 
+Médico solicitante: Medico10 
+Técnico a cargo: tecnico 6 1211136 
+Hemocomponente: crioprecipitado 
+Sector: pediatria 

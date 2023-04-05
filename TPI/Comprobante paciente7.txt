@@ -1,0 +1,7 @@
+Numero de guía: 312 
+Paciente: paciente7 
+Fecha de transfusión: 20240114 
+Médico solicitante: Medico7 
+Técnico a cargo: tecnico 7 1211137 
+Hemocomponente: eritrocitos 
+Sector: pediatria 

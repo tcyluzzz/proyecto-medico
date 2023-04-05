@@ -1,0 +1,7 @@
+Numero de guía: 132 
+Paciente: paciente2 
+Fecha de transfusión: 20210211 
+Médico solicitante: Medico6 
+Técnico a cargo: tecnico 4 1211134 
+Hemocomponente: plaquetas 
+Sector: oncologia 

@@ -1,0 +1,7 @@
+Numero de guía: 645 
+Paciente: paciente12 
+Fecha de transfusión: 20230716 
+Médico solicitante: Medico2 
+Técnico a cargo: tecnico 6 1211136 
+Hemocomponente: plasma 
+Sector: quirofano 

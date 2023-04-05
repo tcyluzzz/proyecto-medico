@@ -1,0 +1,7 @@
+Numero de guía: 126 
+Paciente: paciente10 
+Fecha de transfusión: 20231120 
+Médico solicitante: Medico8 
+Técnico a cargo: tecnico 8 1211138 
+Hemocomponente: plaquetas 
+Sector: quirofano 

@@ -1,0 +1,7 @@
+Numero de guía: 123 
+Paciente: paciente1 
+Fecha de transfusión: 20221203 
+Médico solicitante: Medico7 
+Técnico a cargo: tecnico 7 1211137 
+Hemocomponente: eritrocitos 
+Sector: pediatria    

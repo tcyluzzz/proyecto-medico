@@ -1,0 +1,7 @@
+Numero de guía: 468 
+Paciente: paciente11 
+Fecha de transfusión: 20221201 
+Médico solicitante: Medico4 
+Técnico a cargo: tecnico 4 1211134 
+Hemocomponente: eritrocitos 
+Sector: quirofano 

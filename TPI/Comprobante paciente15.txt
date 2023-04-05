@@ -1,0 +1,7 @@
+Numero de guía: 404 
+Paciente: paciente15 
+Fecha de transfusión: 20230211 
+Médico solicitante: Medico1 
+Técnico a cargo: tecnico 1 1211131 
+Hemocomponente: plaquetas 
+Sector: oncologia 

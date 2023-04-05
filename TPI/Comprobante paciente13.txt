@@ -1,0 +1,7 @@
+Numero de guía: 980 
+Paciente: paciente13 
+Fecha de transfusión: 20250719 
+Médico solicitante: Medico10 
+Técnico a cargo: tecnico 5 1211135 
+Hemocomponente: plasma 
+Sector: pediatria 
